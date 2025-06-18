@@ -1,0 +1,7 @@
+
+cd(change directory) : ディレクトリの変更
+ls(list segments) : ファイル・ディレクトリの一覧表示
+man(manual) : マニュアルを表示する
+apt : ソフトウェアの導入・管理・削除をする
+whoami(who am i) : 現在のユーザー名を表示
+sudo : 一般ユーザーが管理者権限で操作を行う
